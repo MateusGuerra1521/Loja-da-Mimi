@@ -1,0 +1,1 @@
+SELECT * FROM db_testep.tb_cliente;
